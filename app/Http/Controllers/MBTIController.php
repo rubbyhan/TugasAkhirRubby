@@ -151,7 +151,7 @@ class MBTIController extends Controller
             'scoreE' => $data->scoreE,
             'scoreC' => $data->scoreC
         ];
-        echo $test;
+        return response()->json($test, Response::HTTP_OK);
         $response = Http::get('localhost:33000/answer', [
             'scoreIE' => $data->scoreIE,
             'scoreSN' => $data->scoreSN,
