@@ -7,8 +7,6 @@ use App\Models\Question;
 use App\Models\Type;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
-use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Response;
 
 class MBTIController extends Controller
 {
@@ -141,19 +139,7 @@ class MBTIController extends Controller
         if ($data->isEmpty()){ return view('404');}
 
         $data = $data->first();
-        $test =[
-            'scoreIE' => $data->scoreIE,
-            'scoreSN' => $data->scoreSN,
-            'scoreTF' => $data->scoreTF,
-            'scorePJ' => $data->scorePJ,
-            'scoreR' => $data->scoreR,
-            'scoreI' => $data->scoreI,
-            'scoreA' => $data->scoreA,
-            'scoreS' => $data->scoreS,
-            'scoreE' => $data->scoreE,
-            'scoreC' => $data->scoreC
-        ];
-        return response()->json($test, Response::HTTP_OK);
+    
         $response = Http::get('localhost:33000/answer', [
             'scoreIE' => $data->scoreIE,
             'scoreSN' => $data->scoreSN,
