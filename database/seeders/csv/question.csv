@@ -59,45 +59,45 @@ id;question;optiona;optionb;typeid
 58;Pilihlah salah satu yang sesuai dengan kepribadiaan anda;Daftar dan checklist adalah tugas dan beban;Daftar dan checklist adalah panduan penting;4
 59;Pilihlah salah satu yang sesuai dengan kepribadiaan anda;Puas ketika mampu beradaptasi dengan momentum yang terjadi;Puas ketika mampu manjalankan semua sesuai rencana;4
 60;Pilihlah salah satu yang sesuai dengan kepribadiaan anda;Bertindak sesuai situasi dan kondisi;Bertindak sesuai apa yang sudah direncanakan;4
-61;I like to work on cars;yes;no;5
-62;Saya suka membangun sesuatu;yes;no;5
-63;Saya suka memelihara hewan;yes;no;5
-64;I like putting things together or assembling things;yes;no;5
-65;I like to cook;yes;no;5
-66;I am a practical person;yes;no;5
-67;I like working outdoors;yes;no;5
-68;I like to do puzzles;yes;no;6
-69;I like to do experiments;yes;no;6
-70;I enjoy science;yes;no;6
-71;I enjoy trying to figure out how things work;yes;no;6
-72;I like to analyze things (problems/ situations);yes;no;6
-73;I like working with numbers or charts;yes;no;6
-74;I’m good at math;yes;no;6
-75;I am good at working independently;yes;no;7
-76;I like to read about art and music;yes;no;7
-77;I enjoy creative writing;yes;no;7
-78;I am a creative person;yes;no;7
-79;I like to play instruments or sing;yes;no;7
-80;I like acting in plays;yes;no;7
-81;I like to draw;yes;no;7
-82;I like to work in teams;yes;no;8
-83;I like to teach or train people;yes;no;8
-84;I like trying to help people solve their problems;yes;no;8
-85;I am interested in healing people;yes;no;8
-86;I enjoy learning about other cultures;yes;no;8
-87;I like to get into discussions about issues;yes;no;8
-88;I like helping people;yes;no;8
-89;I am an ambitious person, I set goals for myself;yes;no;9
-90;I like to try to influence or persuade people;yes;no;9
-91;I like selling things;yes;no;9
-92;I am quick to take on new responsibilities;yes;no;9
-93;I would like to start my own business;yes;no;9
-94;I like to lead;yes;no;9
-95;I like to give speeches;yes;no;9
-96;I like to organize things, (files, desks/offices);yes;no;10
-97;I like to have clear instructions to follow;yes;no;10
-98;I wouldn’t mind working 8 hours per day in an office;yes;no;10
-99;I pay attention to details;yes;no;10
-100;I like to do filing or typing;yes;no;10
-101;I am good at keeping records of my work;yes;no;10
-102;I would like to work in an office;yes;no;10
+61;Saya suka bekerja di mobil;ya;tidak;5
+62;Saya suka membangun sesuatu;ya;tidak;5
+63;Saya suka memelihara hewan;ya;tidak;5
+64;Saya suka menyatukan sesuatu atau merakit sesuatu;ya;tidak;5
+65;Saya suka memasak;ya;tidak;5
+66;Saya orang yang praktis;ya;tidak;5
+67;Saya suka bekerja di luar ruangan;ya;tidak;5
+68;Saya suka melakukan teka-teki;ya;tidak;6
+69;Saya suka melakukan eksperimen;ya;tidak;6
+70;Saya menikmati sains;ya;tidak;6
+71;Saya senang mencoba mencari tahu bagaimana segala sesuatunya bekerja;ya;tidak;6
+72;Saya suka menganalisis sesuatu (masalah/situasi);ya;tidak;6
+73;Saya suka bekerja dengan angka atau grafik;ya;tidak;6
+74;Saya pandai matematika;ya;tidak;6
+75;Saya pandai bekerja secara mandiri;ya;tidak;7
+76;Saya suka membaca tentang seni dan musik;ya;tidak;7
+77;Saya senang menulis kreatif;ya;tidak;7
+78;Saya adalah orang yang kreatif;ya;tidak;7
+79;Saya suka bermain alat musik atau bernyanyi;ya;tidak;7
+80;Saya suka berakting dalam drama;ya;tidak;7
+81;Saya suka menggambar;ya;tidak;7
+82;Saya suka bekerja dalam tim;ya;tidak;8
+83;Saya suka mengajar atau melatih orang;ya;tidak;8
+84;Saya suka mencoba membantu orang memecahkan masalah mereka;ya;tidak;8
+85;Saya tertarik untuk menyembuhkan orang(Support healing);ya;tidak;8
+86;Saya senang belajar tentang budaya lain;ya;tidak;8
+87;Saya suka berdiskusi tentang masalah;ya;tidak;8
+88;saya suka menolong orang;ya;tidak;8
+89;Saya adalah orang yang ambisius, saya menetapkan tujuan untuk diri saya sendiri;ya;tidak;9
+90;Saya suka mencoba mempengaruhi atau membujuk orang;ya;tidak;9
+91;Saya suka menjual barang;ya;tidak;9
+92;Saya cepat mengambil tanggung jawab baru;ya;tidak;9
+93;Saya ingin memulai bisnis saya sendiri;ya;tidak;9
+94;Saya suka memimpin;ya;tidak;9
+95;Saya suka memberikan pidato/motifasi;ya;tidak;9
+96;Saya suka mengatur sesuatu, (file, meja/kantor);ya;tidak;10
+97;Saya suka memiliki instruksi yang jelas untuk diikuti;ya;tidak;10
+98;Saya tidak keberatan bekerja 8 jam per hari di kantor;ya;tidak;10
+99;Saya memperhatikan detail;ya;tidak;10
+100;Saya suka melakukan pengarsipan atau mengetik;ya;tidak;10
+101;Saya pandai menyimpan catatan pekerjaan saya;ya;tidak;10
+102;Saya ingin bekerja di kantor;ya;tidak;10
