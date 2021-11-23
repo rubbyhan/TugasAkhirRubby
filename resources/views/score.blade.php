@@ -9,6 +9,6 @@
         <h4 class="text-center">{{ $response['RIASEC1'] }}, {{ $response['RIASEC2'] }}, and {{ $response['RIASEC3'] }}</h4>
         <h1 class="text-center">Di mohon untuk mengisi kuisioner berikut</h1>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_KdF9MFZ7XIejOHHLafUTG3OJbq9ecRif8VvNfsAgfKj_aw/viewform?usp=sf_link" class="btn btn-default btn-lg btn-block">kuisioner</a>
-        <a href="{{ route('index') }}" class="btn btn-success btn-lg btn-block">Restart Test</a>
+        <a href="{{ route('index') }}" class="btn btn-default">Restart Test</a>
     </div>
 @endsection
