@@ -5,7 +5,7 @@
         <h3 class="text-center">{{ $questionNumber }} of {{ $totalQuestion }}</h3>
         <form action="{{ route('test.submit', $code) }}" method="post">
             @csrf
-            <div class="row">
+            <div class="row" style="transition-delay: 2s;">
                 <div class="col-6">
                     <button type="submit" class="btn btn-block btn-lg btn-primary" value="0" name="answer">{{ $question['optionA'] }}</button>
                 </div>
