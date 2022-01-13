@@ -140,7 +140,7 @@ class MBTIController extends Controller
 
         $data = $data->first();
     
-        $response = Http::get('localhost:5000/answer', [
+        $response = Http::get('localhost:33000/answer', [
             'scoreIE' => $data->scoreIE,
             'scoreSN' => $data->scoreSN,
             'scoreTF' => $data->scoreTF,
